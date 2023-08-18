@@ -11,7 +11,7 @@ syn = { version = "2.0.28", features = ["full"] }
 solana-program = "1.16.7"
 proc-macro2 = "1.0.56"
 bs58 = "0.5.0"
-quote = "1.0.32"
+quote = "1.0.33"
 trybuild = "1.0.80"
 [lib]
 proc-macro = true

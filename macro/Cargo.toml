@@ -12,6 +12,6 @@ solana-program = "1.16.18"
 proc-macro2 = "1.0.86"
 bs58 = "0.5.0"
 quote = "1.0.37"
-trybuild = "1.0.85"
+trybuild = "1.0.99"
 [lib]
 proc-macro = true
